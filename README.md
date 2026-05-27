@@ -2,7 +2,7 @@
 
 Hello! I'm **[Your Name]**, an Electronics Technician and C/C++ programmer passionate about technology, embedded systems, and low-level engineering.
 
-I am currently focused on deepening my knowledge in electronics, software development, mathematics, and physics, pursuing my long-term goal of becoming an Electronic Engineer at the prestigious :contentReference[oaicite:0]{index=0} (ITA).
+I am currently focused on deepening my knowledge in electronics, software development, mathematics, and physics, pursuing my long-term goal of becoming an Electronic Engineer at the prestigious : (ITA).
 
  Areas of Interest
 
