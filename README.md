@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+#  About Me
 
 Hello! I'm **[Your Name]**, an Electronics Technician and C/C++ programmer passionate about technology, embedded systems, and low-level engineering.
 
